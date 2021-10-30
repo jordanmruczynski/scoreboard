@@ -1,0 +1,7 @@
+name: scoreboard
+version: '${project.version}'
+main: pl.jordii.scoreboard.ScoreboardPlugin
+api-version: 1.17
+authors: [ pxav, Jordan "Jordii" Mruczynski ]
+description: Playchest scoreboard system with recoded bukkit scheduler-system. You can find it here => https://github.com/KelpFramework/kelp
+depend: [PlaceholderAPI]
