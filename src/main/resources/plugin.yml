@@ -1,0 +1,6 @@
+name: playchest-scoreboard
+version: '${project.version}'
+main: pl.jordii.scoreboard.ScoreboardPlugin
+authors: [ Jordan "Jordii" Mruczynski ]
+description: Playchest scoreboard system with recoded bukkit scheduler-system.
+depend: [PlaceholderAPI]
